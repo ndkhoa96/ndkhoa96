@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndkhoa96
+- 👋 Hi, I’m Khoa Nguyen
 - 👀 I’m interested in Apple Platform, especially iOS
 - 🌱 I’m currently learning Swift, system design, TDD.
 - 💞️ I’m looking to collaborate on any project about Apple Platform.
